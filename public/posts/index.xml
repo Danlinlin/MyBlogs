@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
+    <link>https://danlinlin.github.io/MyBlogs/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Mar 2024 23:03:31 -0700</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danlinlin.github.io/MyBlogs/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <title>Deploy a blog website with Github Pages and Hugo</title>
+      <link>https://danlinlin.github.io/MyBlogs/posts/my-first-post/</link>
       <pubDate>Thu, 14 Mar 2024 23:03:31 -0700</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <guid>https://danlinlin.github.io/MyBlogs/posts/my-first-post/</guid>
+      <description>Building a Personal Website with Hugo and GitHub Pages 1. Introduction Purpose In the digital age, having a personal website is more than a luxury—it&amp;rsquo;s a necessity for professionals, students, and hobbyists alike. Whether you&amp;rsquo;re showcasing your portfolio, publishing your blog, or presenting your project, the combination of Hugo and GitHub Pages offers a powerful, easy-to-use platform that stands out for its speed and flexibility.
+Engagement Imagine being able to deploy updates to your website with a simple push to a repository, or building your entire site in less than a second.</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 +++
 title = 'Deploy a blog website with Github Pages and Hugo'
 date = 2024-03-14T23:03:31-07:00
-draft = true
+draft = false
 +++
 # Building a Personal Website with Hugo and GitHub Pages
 
