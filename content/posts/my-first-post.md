@@ -1,10 +1,8 @@
 +++
-title = 'Deploy a blog website with Github Pages and Hugo'
-date = 2024-03-14T23:03:31-07:00
+title = 'Building a Personal Website with Hugo and GitHub Pages'
+date = 2024-03-18T23:03:31-07:00
 draft = false
 +++
-# Building a Personal Website with Hugo and GitHub Pages
-
 ## 1. Introduction
 
 ### Purpose
@@ -36,52 +34,52 @@ Hugo is an open-source static site generator that is celebrated for its blazing-
 ### 2. Installing Hugo:
 
 #### macOS:
-    ```bash
-    brew install hugo
-    ```
+```bash
+brew install hugo
+```
 
 #### Windows:
-    ```bash
-    choco install hugo -confirm
-    ```
+```bash
+choco install hugo -confirm
+```
 
 ### 3. Creating a New Hugo Site:
-    ```bash
-    hugo new site [your-site-name] --format yaml #replace [your-site-name] with your site name
-    ```
+```bash
+hugo new site [your-site-name] --format yaml #replace [your-site-name] with your site name
+```
 After creating your site, navigate into your site's directory:
-    ```bash
-    cd [your-site-name]
-    ```
+```bash
+cd [your-site-name]
+```
 
 ### 4. Adding a Theme:
 Select a theme from the Hugo themes directory. To add the PaperMod theme, for example:
-    ```bash
-    git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
-    git submodule update --remote --merge
-    ```
+```bash
+git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+git submodule update --remote --merge
+```
 And in `hugo.yaml`, include:
-    ```yaml
-    theme: ["PaperMod"]
-    ```
+```yaml
+theme: ["PaperMod"]
+```
 
 ### 5. Adding the Post:
 Create your first post with:
-    ```bash
-    hugo new content/posts/[my-first-post.md] #replace my-first-post.md with your post name
-    ```
+```bash
+hugo new content/posts/[my-first-post.md] #replace my-first-post.md with your post name
+```
 Edit the post to add content, remember to set the draft status to false to publish.
 
 ### 6. Publishing the Site:
 Build your site with Hugo by running:
-    ```bash
-    hugo
-    ```
+```bash
+hugo
+```
 
 ### 6. Deploying to GitHub Pages:
 Follow these steps to deploy your site to GitHub Pages, including the creation of a deployment script for automation.
 
-## 1. Additional Resources
+## Additional Resources
 
-- **GitHub Pages Documentation**: Explore in-depth guides and tips for using GitHub Pages.
-- **Hugo Documentation**: Dive into the comprehensive documentation provided by Hugo for more advanced features and configurations.
+- **[GitHub Pages Documentation](https://docs.github.com/en/pages/getting-started-with-github-pages)**
+- **[Hugo Documentation](https://gohugo.io/documentation/)**
