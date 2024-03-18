@@ -5,11 +5,6 @@ draft = false
 +++
 ## 1. Introduction
 
-### Purpose
-In the digital age, having a personal website is more than a luxury—it's a necessity for professionals, students, and hobbyists alike. Whether you're showcasing your portfolio, publishing your blog, or presenting your project, the combination of Hugo and GitHub Pages offers a powerful, easy-to-use platform that stands out for its speed and flexibility.
-
-### Engagement
-Imagine being able to deploy updates to your website with a simple push to a repository, or building your entire site in less than a second. That's the reality for users of Hugo and GitHub Pages. As a developer who has juggled multiple projects, I've found this approach to not only save time but also to significantly enhance the visibility of my work online.
 
 ## 2. What are GitHub Pages and Hugo?
 
