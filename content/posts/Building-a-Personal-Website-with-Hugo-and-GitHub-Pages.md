@@ -1,6 +1,6 @@
 +++
-title = 'Building a Personal Website with Hugo and GitHub Pages'
-date = 2024-03-18T23:03:31-07:00
+title = 'Building a Personal Website With Hugo and GitHub Pages'
+date = 2024-03-18T17:10:38-07:00
 draft = false
 +++
 ## 1. Introduction
