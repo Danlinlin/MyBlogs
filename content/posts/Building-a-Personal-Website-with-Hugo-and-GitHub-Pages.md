@@ -172,7 +172,7 @@ git add . && git commit -m "Add my workflow"
 git push -u origin/master
 ```
 In your github repository, under the action tab, you will see
-![Suceesful Deployment](image-1.png)
+![Suceesful Deployment](/image-2.png)
 ## Additional Resources
 
 - **[GitHub Pages Documentation](https://docs.github.com/en/pages/getting-started-with-github-pages)**
