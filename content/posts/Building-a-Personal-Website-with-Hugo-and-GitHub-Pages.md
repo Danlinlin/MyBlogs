@@ -82,7 +82,7 @@ git add . && git commit -m "Add my first post"
 git push main master
 ```
 In the main page of your repository, from the main menu choose `Settings` > `Pages`.
-(![Github Pages Settings](image.png))
+(![Github Pages Settings](/image.png))
 #### Create an empty file in your local repository.
 Under the [your-site-name] directory
 `.github/workflows/hugo.yaml`
