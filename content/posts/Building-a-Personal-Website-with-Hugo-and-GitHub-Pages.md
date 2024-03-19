@@ -169,8 +169,10 @@ jobs:
 #### Commit the change to your local repository and push to GitHub
 ```bash
 git add . && git commit -m "Add my workflow"
-git push main master
+git push -u origin/master
 ```
+In your github repository, under the action tab, you will see
+![Suceesful Deployment](image-1.png)
 ## Additional Resources
 
 - **[GitHub Pages Documentation](https://docs.github.com/en/pages/getting-started-with-github-pages)**
