@@ -82,7 +82,7 @@ git add . && git commit -m "Add my first post"
 git push main master
 ```
 In the main page of your repository, from the main menu choose `Settings` > `Pages`.
-(![Github Pages Settings](/image.png))
+![Github Pages Setting](/MyBlogs/images/image.png)
 #### Create an empty file in your local repository.
 Under the [your-site-name] directory
 `.github/workflows/hugo.yaml`
@@ -172,7 +172,11 @@ git add . && git commit -m "Add my workflow"
 git push -u origin/master
 ```
 In your github repository, under the action tab, you will see
-![Suceesful Deployment](/image-2.png)
+![Github Workflow](/MyBlogs/images/image-2.png)
+
+Tips:
+To Do:
+how to add images
 ## Additional Resources
 
 - **[GitHub Pages Documentation](https://docs.github.com/en/pages/getting-started-with-github-pages)**
