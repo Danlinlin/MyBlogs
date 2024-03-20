@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 18 Mar 2024 17:10:38 -0700</lastBuildDate>
     <atom:link href="https://danlinlin.github.io/MyBlogs/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Building a Personal Website With Hugo and GitHub Pages</title>
-      <link>https://danlinlin.github.io/MyBlogs/posts/building-a-personal-website-with-hugo-and-github-pages/</link>
+      <title>Building a Website With Hugo and GitHub Pages</title>
+      <link>https://danlinlin.github.io/MyBlogs/posts/building-a-website-with-hugo-and-github-pages/</link>
       <pubDate>Mon, 18 Mar 2024 17:10:38 -0700</pubDate>
-      <guid>https://danlinlin.github.io/MyBlogs/posts/building-a-personal-website-with-hugo-and-github-pages/</guid>
-      <description>1. Introduction 2. What are GitHub Pages and Hugo? GitHub Pages: GitHub Pages is a complimentary hosting service that provides the simplicity and reliability needed for personal and project websites. Its seamless GitHub integration allows for easy updates, supports custom domains, offers SSL encryption for secure connections, and is perfectly suited for static site generators like Jekyll, and by extension, Hugo.
+      <guid>https://danlinlin.github.io/MyBlogs/posts/building-a-website-with-hugo-and-github-pages/</guid>
+      <description>1. What are GitHub Pages and Hugo? GitHub Pages: GitHub Pages is a complimentary hosting service that provides the simplicity and reliability needed for personal and project websites. Its seamless GitHub integration allows for easy updates, supports custom domains, offers SSL encryption for secure connections, and is perfectly suited for static site generators like Jekyll, and by extension, Hugo.
 Hugo: Hugo is an open-source static site generator that is celebrated for its blazing-fast performance and ease of use.</description>
     </item>
   </channel>

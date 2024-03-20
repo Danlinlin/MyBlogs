@@ -1,27 +1,24 @@
 +++
-title = 'Building a Personal Website With Hugo and GitHub Pages'
+title = 'Building a Website With Hugo and GitHub Pages'
 date = 2024-03-18T17:10:38-07:00
 draft = false
 +++
-## 1. Introduction
+## 1. What are GitHub Pages and Hugo?
 
-
-## 2. What are GitHub Pages and Hugo?
-
-### GitHub Pages:
+### [GitHub Pages](https://pages.github.com/):
 GitHub Pages is a complimentary hosting service that provides the simplicity and reliability needed for personal and project websites. Its seamless GitHub integration allows for easy updates, supports custom domains, offers SSL encryption for secure connections, and is perfectly suited for static site generators like Jekyll, and by extension, Hugo.
 
-### Hugo:
+### [Hugo](https://gohugo.io/):
 Hugo is an open-source static site generator that is celebrated for its blazing-fast performance and ease of use. It excels in generating pages in milliseconds, supports a wide range of content types, and leverages Markdown for content creation, offering a straightforward yet flexible way to build websites.
 
-## 3. Prerequisites
+## 2. Prerequisites
 
 - Tools and Accounts Required:
   - A GitHub account
   - Git installed on your computer
   - Hugo installed on your system
 
-## 4. Step-by-Step Guide
+## 3. Step-by-Step Guide
 
 ### 1. Creating a GitHub Repository:
    Start by creating a new repository on GitHub. This will serve as the home for your website's code and content.
@@ -71,7 +68,7 @@ Build your site with Hugo by running:
 hugo
 ```
 
-### 6. Deploying to GitHub Pages:
+### 4. Deploying to GitHub Pages:
 Follow these steps to deploy your site to GitHub Pages, including the creation of a deployment script for automation.
 #### Create a github repository.
 #### Push your local repository to GitHub.
@@ -174,9 +171,13 @@ git push -u origin/master
 In your github repository, under the action tab, you will see
 ![Github Workflow](/MyBlogs/images/image-2.png)
 
-Tips:
-To Do:
-how to add images
+*Tips:*
+**how to add images**: Add images in static folder
+![folder tree](/MyBlogs/images/image-3.png)
+If your base URL has `github.io/MyBlogs/`
+you should insert it like `![Github Workflow](/MyBlogs/images/image-2.png)`
+(I create a images folder under static)
+
 ## Additional Resources
 
 - **[GitHub Pages Documentation](https://docs.github.com/en/pages/getting-started-with-github-pages)**
